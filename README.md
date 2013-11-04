@@ -1,5 +1,5 @@
-Cython interface to CLAHE (Graphics Gems IV)
-==================================
+Cython interface to CLAHE
+=========================
 
 This is a cython wrapper for the C code of CLAHE (Contrast Limited Adaptive
 Histogram Equalization), available from "Graphics Gems IV". This is an
